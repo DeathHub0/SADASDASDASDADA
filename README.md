@@ -4,7 +4,7 @@ local keys = {
     "SPLASH-dsalkdassdx",
     "SPLASH-DADI5-DAJ78",
     "dfsfdsf-dsfssd-dsfds",
-	"SPLASH-DSASD-DSADASDA-SADASD"
+    "SPLASH-DSASD-DSADASDA-SADASD"
 }
 
 local counter = 1
